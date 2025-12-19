@@ -1,0 +1,9 @@
+{
+  "name": "Green Gold Carbon Intelligence",
+  "description": "Professional AI-powered Carbon Intelligence & Sustainability Platform with integrated Gemini AI for enterprise decarbonization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
